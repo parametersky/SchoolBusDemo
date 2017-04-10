@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SchoolBusDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="route">Route Available</string>
+    <string name="route_coming">Route Comming Soon</string>
+    <string name="new_route">Open Route</string>
+</resources>
